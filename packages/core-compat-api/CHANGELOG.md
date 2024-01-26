@@ -1,5 +1,17 @@
 # @backstage/core-compat-api
 
+## 0.1.2-next.1
+
+### Patch Changes
+
+- edfd3a5: Updated dependency `@oriflame/backstage-plugin-score-card` to `^0.8.0`.
+- bc621aa: Updates to use the new `RouteResolutionsApi`.
+- Updated dependencies
+  - @backstage/frontend-plugin-api@0.5.1-next.1
+  - @backstage/core-app-api@1.11.4-next.0
+  - @backstage/core-plugin-api@1.8.2
+  - @backstage/version-bridge@1.0.7
+
 ## 0.1.2-next.0
 
 ### Patch Changes

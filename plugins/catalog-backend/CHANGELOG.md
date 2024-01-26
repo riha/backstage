@@ -1,5 +1,29 @@
 # @backstage/plugin-catalog-backend
 
+## 1.17.0-next.1
+
+### Patch Changes
+
+- efa8160: Rollback the change for wildcard discovery, this fixes a bug with the `AzureUrlReader` not working with wildcard paths
+- Updated dependencies
+  - @backstage/integration@1.9.0-next.0
+  - @backstage/backend-common@0.21.0-next.1
+  - @backstage/config@1.1.1
+  - @backstage/backend-tasks@0.5.15-next.1
+  - @backstage/plugin-auth-node@0.4.4-next.1
+  - @backstage/plugin-permission-node@0.7.21-next.1
+  - @backstage/plugin-search-backend-module-catalog@0.1.14-next.1
+  - @backstage/backend-openapi-utils@0.1.3-next.1
+  - @backstage/backend-plugin-api@0.6.10-next.1
+  - @backstage/catalog-client@1.6.0-next.0
+  - @backstage/catalog-model@1.4.3
+  - @backstage/errors@1.2.3
+  - @backstage/types@1.1.1
+  - @backstage/plugin-catalog-common@1.0.20
+  - @backstage/plugin-catalog-node@1.6.2-next.1
+  - @backstage/plugin-events-node@0.2.19-next.1
+  - @backstage/plugin-permission-common@0.7.12
+
 ## 1.17.0-next.0
 
 ### Minor Changes

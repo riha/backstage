@@ -1,5 +1,16 @@
 # @backstage/plugin-catalog-backend-module-scaffolder-entity-model
 
+## 0.1.7-next.1
+
+### Patch Changes
+
+- Updated dependencies
+  - @backstage/backend-plugin-api@0.6.10-next.1
+  - @backstage/catalog-model@1.4.3
+  - @backstage/plugin-catalog-common@1.0.20
+  - @backstage/plugin-catalog-node@1.6.2-next.1
+  - @backstage/plugin-scaffolder-common@1.5.0-next.0
+
 ## 0.1.7-next.0
 
 ### Patch Changes
